@@ -1,17 +1,19 @@
-Implement this design in an app using Flutter, using widgets that we take on the lesson this week.
+# clothing_app
 
-<img width="863" alt="Screenshot 2025-04-16 at 4 57 53 PM" src="https://github.com/user-attachments/assets/343859dc-9718-4439-9226-2e14c45d8189" />
+A new Flutter project.
 
-### Note:
-- The blue arrow means, when the user clicked.
-- use suitable widgets, and create **Custom widget** for the card *that shown in second page*.
-- upload GIF or video for your app.
-- if you upload GIF, upload it in README file.
+APP DEMO:
+![Demo](images/Vintage%20Clothing%20App%20Demo.gif)
 
-Submission details:
-- Fork this repo
-- Create new branch *with your name*
-- Coding!
-- Create pull request
+## Getting Started
 
-Good luck 🚀 and happy coding! 🧑‍💻
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
